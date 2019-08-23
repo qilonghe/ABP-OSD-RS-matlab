@@ -1,3 +1,4 @@
 # ABP-OSD-RS-matlab
-包含详细的RS码的编码步骤，以及ABP-OSD译码程序，重要点都用文字进行说明
-级联程序可以单独拆开亦可译码
+鍖呭惈璇︾粏鐨凴S鐮佺殑缂栫爜姝ラ锛屼互鍙夾BP-OSD璇戠爜绋嬪簭锛岄噸瑕佺偣閮界敤鏂囧瓧杩涜璇存槑
+绾ц仈绋嬪簭鍙互鍗曠嫭鎷嗗紑浜﹀彲璇戠爜
+![](https://github.com/qilonghe/ABP-OSD-RS-matlab/blob/master/image1.gif)
